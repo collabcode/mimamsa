@@ -1,3 +1,3 @@
 # mimamsa
 
-Hellow World
+Hello World
